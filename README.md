@@ -1,4 +1,4 @@
-## Hey, I'm Hasan 👋
+## Hey, I'm Hasan U guys can know me as my Ingame nick Perfect 👋
 
 I'm a **Software Engineering student** focused on **problem-solving** and writing **clean, simple code**.
 
