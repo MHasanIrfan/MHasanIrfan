@@ -2,8 +2,6 @@
 
 I'm a **Software Engineering student** focused on **problem-solving** and writing **clean, simple code**.
 
-I use GitHub to share what I'm learning, small projects, and experiments as I grow into a professional software engineer.
-
 ---
 
 ### 💻 What I Do
