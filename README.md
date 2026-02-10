@@ -8,7 +8,7 @@ I'm a **Software Engineering student** focused on **problem-solving** and writin
 
 * Learn and practice software engineering concepts
 * Write readable and maintainable code
-* Learn coding languages and libraries (currently learning **jQuery**)
+* Learn coding languages and libraries
 
 ---
 
