@@ -1,16 +1,33 @@
-## Hi there 👋
+## Hey, I'm Hasan 👋
 
-<!--
-**MHasanIrfan/MHasanIrfan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Software Engineering student** focused on **problem-solving** and writing **clean, simple code**.
 
-Here are some ideas to get you started:
+I use GitHub to share what I'm learning, small projects, and experiments as I grow into a professional software engineer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 What I Do
+
+* Learn and practice software engineering concepts
+* Write readable and maintainable code
+* Learn coding languages and libraries (currently learning **jQuery**)
+
+---
+
+### 🚀 Currently
+
+* Improving my coding skills
+* Exploring different tools and technologies
+* Learning by building
+
+---
+
+### 📌 About Me
+
+* Prefer simple and efficient solutions
+* Believe consistency > perfection
+* TF2 player in my free time 🎮 (strategy, timing, and mechanics mindset)
+
+---
+
+⭐ Feel free to check out my repositories and follow my journey
