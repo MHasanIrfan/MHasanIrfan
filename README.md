@@ -1,31 +1,10 @@
-## Hey, I'm Hasan/Perfect 👋
+Hello 👋
 
-I'm a **Software Engineering student** focused on **problem-solving** and writing **clean, simple code**.
+Hi!, I'm Hasan (Perfect).
+a Software Engineering student.
 
----
+Don't expect too many public projects here — most of my work is private or personal experiments. I focus on learning, improving, and building useful things along the way.
 
-### 💻 What I Do
+Sometimes I share tools or projects when they are ready, but most of the time I'm working quietly behind the scenes, improving step by step.
 
-* Learn and practice software engineering concepts
-* Write readable and maintainable code
-* Learn coding languages and libraries
-
----
-
-### 🚀 Currently
-
-* Improving my coding skills
-* Exploring different tools and technologies
-* Learning by building
-
----
-
-### 📌 About Me
-
-* Prefer simple and efficient solutions
-* Believe consistency > perfection
-* TF2 player in my free time 🎮 (strategy, timing, and mechanics mindset)
-
----
-
-⭐ Feel free to check out my repositories and follow my journey
+And every now and then, I contribute to different ideas or projects — focusing on clean, simple, and efficient solutions.
